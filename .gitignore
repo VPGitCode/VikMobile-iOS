@@ -1,0 +1,16 @@
+# Xcode
+*.xcodeproj/
+!*.xcodeproj/project.pbxproj
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+build/
+*.ipa
+Payload/
+
+# macOS
+.DS_Store
+*.swp
+
+# CocoaPods (not used, but just in case)
+Pods/
